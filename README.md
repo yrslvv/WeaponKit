@@ -1,7 +1,7 @@
-# WeaponKit
+#Zombie Slasher
 
 ##  How To Use 
-Instead Of BP_VRFullBody use VRPawn (I am still working on integrating FullBody)
+Still in development, go to "main" level to check the functionality. 
  
 ##  License
 License Grant: Subject to the payment of the license fee, which is agreed upon by the licensor and licensee, and the licensee accepts, a non-exclusive, non-transferable license to use this software and associated documentation files (the "Software"), subject to the following terms and conditions.
